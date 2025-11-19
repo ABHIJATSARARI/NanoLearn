@@ -2,9 +2,8 @@
 
 # 🚀 NanoLearn
 
-<img src="logo.png" alt="NanoLearn Logo" width="200"/>
+<img src="logo-1.png" alt="NanoLearn Logo" width="400"/>
 
-> 💡 **First time setup?** Generate your logo by opening `generate-logo.html` in your browser and clicking download!
 
 ### *AI-Powered Micro-Tutor in 60 Seconds* ⚡
 
