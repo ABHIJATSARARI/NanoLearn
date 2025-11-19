@@ -1,0 +1,5 @@
+{
+  "name": "NanoLearn",
+  "description": "AI-powered micro-tutor that turns lessons into 60-second personalized learning bursts using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
