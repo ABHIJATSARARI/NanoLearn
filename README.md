@@ -2,7 +2,7 @@
 
 # 🚀 NanoLearn
 
-<img src="logo.png" alt="NanoLearn Logo" width="200"/>
+<img src="logo-1.png" alt="NanoLearn Logo" width="400"/>
 
 
 ### *AI-Powered Micro-Tutor in 60 Seconds* ⚡
