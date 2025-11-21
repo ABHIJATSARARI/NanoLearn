@@ -81,8 +81,7 @@ npm install
 echo "VITE_GEMINI_API_KEY=your_api_key_here" > .env
 ```
 
-> 🔑 Get your free API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
-
+> 🔑 Get your free API key from 
 4️⃣ **Start the development server**
 ```bash
 npm run dev
